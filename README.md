@@ -9,3 +9,5 @@ Mit program viser hvor mange felter en ridder (knight) kan opnå på et skakbræ
 - Hvis et træk er muligt tager den det første der virker.  
 - Den tæller hvor mange felter den når før den sidder fast.  
 - Resultatet printes som en tabel hvor hvert tal viser hvor langt ridderen nåede fra det startfelt.
+
+- OBS!! Jeg er blevet mindet om at en knight hedder en springer på dansk, og ikke ridder, så se bort fra den fejl... :)
