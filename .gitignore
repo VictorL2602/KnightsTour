@@ -9,14 +9,12 @@
 *.tmp
 
 # Ignore dependency or cache folders
-.vscode/
 .idea/
 *.DS_Store
 
 # Ignore clangd and language server cache files
 .cache/
 .clangd/
-compile_commands.json
 
 # Ignore generated documentation
 docs/
